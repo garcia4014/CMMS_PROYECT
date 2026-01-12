@@ -1,0 +1,257 @@
+﻿body {
+}
+
+.imagenusuario {
+    margin-top: -100px;
+    margin-left: 0%;
+}
+
+.anchobotonlargo {
+    width: 220px !important;
+}
+
+/*Inicio: Cabecera BIMS Formulario*/
+/* Header */
+#header-top-bims {
+    margin-top: -10px;
+    margin-bottom: 5px;
+    background-color: aqua;
+    text-align: center;
+    content: "";
+    display: block;
+    height: 0;
+    overflow: hidden;
+    clear: both;
+    margin-top: -5px;
+    float: left;
+    margin-top: 0;
+}
+
+.header-top-bims .contact-info p {
+    float: right;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+.header-top-bims .contact-info p {
+    float: none;
+    margin-top: 0px;
+    margin-left: 0;
+}
+/*
+#header-bims .contact-info p:first-child {
+    margin-top: 0;
+}
+*/
+
+.header-top-bims .contact-info .empresa {
+    background-image: url(../Imagenes/empresa.png);
+    padding-left: 22px;
+    color: #888;
+    font-size: 9px !important; /* 11px */
+}
+
+.header-top-bims .contact-info .ruc {
+    background-image: url(../Imagenes/ruc.png);
+    padding-left: 22px;
+    color: #888;
+    font-size: 9px; /* 11px */
+}
+
+.header-top-bims .contact-info .puntoventa {
+    background-image: url(../Imagenes/puntoventa.png);
+    padding-left: 22px;
+    color: #888;
+    font-size: 9px; /* 11px */
+}
+/*Final: Cabecera BIMS Formulario*/
+
+
+
+/*Inicio: Gridview*/
+/*gridview*/
+.table table tbody tr td a,
+.table table tbody tr td span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    color: #337ab7;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.table table > tbody > tr > td > span {
+    z-index: 3;
+    color: #fff;
+    cursor: default;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+
+.table table > tbody > tr > td:first-child > a,
+.table table > tbody > tr > td:first-child > span {
+    margin-left: 0;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.table table > tbody > tr > td:last-child > a,
+.table table > tbody > tr > td:last-child > span {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.table table > tbody > tr > td > a:hover,
+.table table > tbody > tr > td > span:hover,
+.table table > tbody > tr > td > a:focus,
+.table table > tbody > tr > td > span:focus {
+    z-index: 2;
+    color: #23527c;
+    background-color: #eee;
+    border-color: #ddd;
+}
+/*end gridview */
+/*Final: Gridview */
+
+/****************Inicio: Formato de Texto en la Grilla de Ventas*************/
+.mgrid_tipo_afectacion {
+    display: block;
+    text-align: left;
+    font-size: 9px;
+    /*color: #bfbfbf;*/
+    color: #eb7f00;
+    height: 13px;
+    width: 100%;
+    vertical-align: bottom;
+    padding: 0px 5px 5px 0px;
+}
+
+.mgrid_small {
+    display: block;
+    text-align: left;
+    font-size: 11px;
+    /*color: #383838;*/
+    /*height: 13px;*/
+    width: 100%;
+    vertical-align: bottom;
+    padding: 0px 5px 5px 0px;
+}
+/****************Final: Formato de Texto en la Grilla de Ventas*************/
+
+/****************Inicio: Color de texto para el estado o situación de envio*************/
+.texto_estado {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+
+.short_estado {
+    margin: 0 0 0 0;
+    padding: 0px 0px;
+    font-size: 10px;
+}
+
+.texto_estado.orange {
+    background-color: #f25824;
+}
+
+.texto_estado.black {
+    background-color: #383838;
+}
+
+.texto_estado.green {
+    background-color: #7eb01a;
+}
+
+.texto_estado.blue {
+    background-color: #4396bf;
+}
+
+.texto_estado.light-orange {
+    background-color: #eb7f00;
+}
+
+.texto_estado.purple {
+    background-color: #b28eb4;
+}
+
+.texto_estado.teal {
+    background-color: #1693A5;
+}
+
+.texto_estado.red {
+    background-color: #e53c3c;
+}
+
+.texto_estado.pink {
+    background-color: #ce5c76;
+}
+
+.texto_estado.verde {
+    /*background-color: #4CAF50;*/
+    background-color: #2B8A4C;
+}
+
+.texto_estado.morado {
+    /*background-color: #4CAF50;*/
+    background-color: #b200ff;
+}
+
+.borde_redondo1 {
+    border-radius: 4px;
+}
+/****************Final: Color de texto para el estado o situación de envio*************/
+
+
+
+
+
+
+
+
+/*INICIO: Se utiliza para poder buscar verticalmente en los modalpopup*/
+.viewport {
+    overflow-y:visible;
+    /* Make sure the inner div is not larger than the container
+     * so that we have room to scroll.
+     */
+    max-height: 250px;
+    /* Pick an arbitrary margin/padding that should be bigger
+     * than the max width of all the scroll bars across
+     * the devices you are targeting.
+     * padding = -margin
+     */
+    margin-right: -100px;
+    padding-right: 100px;
+}
+
+.viewport2 {
+    overflow-y: visible;
+    /* Make sure the inner div is not larger than the container
+     * so that we have room to scroll.
+     */
+    max-height: 450px;
+    /* Pick an arbitrary margin/padding that should be bigger
+     * than the max width of all the scroll bars across
+     * the devices you are targeting.
+     * padding = -margin
+     */
+    margin-right: -100px;
+    padding-right: 100px;
+}
+
+/*FINAL: Se utiliza para poder buscar verticalmente en los modalpopup*/
+
+

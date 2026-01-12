@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://www.bimsic.net/WSSIW/wsSistemaIntegradoWebBIMSIC.asmx?wsdl" docRef="https://www.bimsic.net/WSSIW/wsSistemaIntegradoWebBIMSIC.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://www.bimsic.net/WSSIW/wsSistemaIntegradoWebBIMSIC.asmx" xmlns:q1="http://bimsic.net/" binding="q1:wsSistemaIntegradoWebBIMSICSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://www.bimsic.net/WSSIW/wsSistemaIntegradoWebBIMSIC.asmx" xmlns:q2="http://bimsic.net/" binding="q2:wsSistemaIntegradoWebBIMSICSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

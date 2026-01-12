@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://bimsic.net/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://bimsic.net/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://bimsic.net/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaRUC">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RUC" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaRUCResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaRUCResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaValidaEmpresa">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RUC" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaValidaEmpresaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaValidaEmpresaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertaConsultaFE">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="dFechaEmisionConsultaFE" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="cIdTipoDocumentoConsultaFE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="vIdNumeroSerieDocumentoConsultaFE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="vIdNumeroCorrelativoConsultaFE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cIdTipoDocumentoClienteConsultaFE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="vNumeroDocumentoClienteConsultaFE" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="nTotalPrecioVentaConsultaFE" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="vRucEmpresaConsultaFE" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertaConsultaFEResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertaConsultaFEResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaRUCSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaRUC" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaRUCSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaRUCResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaValidaEmpresaSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaValidaEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaValidaEmpresaSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaValidaEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertaConsultaFESoapIn">
+    <wsdl:part name="parameters" element="tns:InsertaConsultaFE" />
+  </wsdl:message>
+  <wsdl:message name="InsertaConsultaFESoapOut">
+    <wsdl:part name="parameters" element="tns:InsertaConsultaFEResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsSistemaIntegradoWebBIMSICSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaRUC">
+      <wsdl:input message="tns:ConsultaRUCSoapIn" />
+      <wsdl:output message="tns:ConsultaRUCSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaValidaEmpresa">
+      <wsdl:input message="tns:ConsultaValidaEmpresaSoapIn" />
+      <wsdl:output message="tns:ConsultaValidaEmpresaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertaConsultaFE">
+      <wsdl:input message="tns:InsertaConsultaFESoapIn" />
+      <wsdl:output message="tns:InsertaConsultaFESoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsSistemaIntegradoWebBIMSICSoap" type="tns:wsSistemaIntegradoWebBIMSICSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://bimsic.net/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaRUC">
+      <soap:operation soapAction="http://bimsic.net/ConsultaRUC" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaValidaEmpresa">
+      <soap:operation soapAction="http://bimsic.net/ConsultaValidaEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertaConsultaFE">
+      <soap:operation soapAction="http://bimsic.net/InsertaConsultaFE" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsSistemaIntegradoWebBIMSICSoap12" type="tns:wsSistemaIntegradoWebBIMSICSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://bimsic.net/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaRUC">
+      <soap12:operation soapAction="http://bimsic.net/ConsultaRUC" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaValidaEmpresa">
+      <soap12:operation soapAction="http://bimsic.net/ConsultaValidaEmpresa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertaConsultaFE">
+      <soap12:operation soapAction="http://bimsic.net/InsertaConsultaFE" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsSistemaIntegradoWebBIMSIC">
+    <wsdl:port name="wsSistemaIntegradoWebBIMSICSoap" binding="tns:wsSistemaIntegradoWebBIMSICSoap">
+      <soap:address location="https://www.bimsic.net/WSSIW/wsSistemaIntegradoWebBIMSIC.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsSistemaIntegradoWebBIMSICSoap12" binding="tns:wsSistemaIntegradoWebBIMSICSoap12">
+      <soap12:address location="https://www.bimsic.net/WSSIW/wsSistemaIntegradoWebBIMSIC.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

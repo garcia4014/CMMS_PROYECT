@@ -1,0 +1,216 @@
+﻿/*Formato de los Cuadros de Dialogo*/
+.FondoAplicacion
+{
+    background-color: lightblue;
+    filter: alpha(opacity=70);
+    opacity: 0.7;
+}
+
+.CajaDialogoBigExtremMax {
+    background-color: White;
+    border-width: 4px;
+    border-style: outset;
+    border-color: #DDE4EC;
+    padding: 0px;
+    width: 1100px;
+}
+
+.CajaDialogoBigExtremMax div {
+    margin: 5px;
+    text-align: center;
+    padding: 0px;
+}
+
+.CajaDialogoBigExtremMax div .Titulo {
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    background-color: #4B6C9E;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.CajaDialogoBigExtrem
+{
+    background-color: White;
+    border-width: 4px;
+    border-style: outset;
+    border-color: #DDE4EC;
+    padding: 0px;
+    width: 900px;
+    /*width: 760px;*/
+}
+    
+.CajaDialogoBigExtrem div
+{
+    margin: 5px;
+    text-align: center;
+    padding: 0px;
+}
+
+.CajaDialogoBigExtrem div .Titulo
+{
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    background-color:#4B6C9E;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight:bold;
+}
+
+.CajaDialogoBig
+{
+    background-color: White;
+    border-width: 4px;
+    border-style: outset;
+    border-color: #DDE4EC;
+    padding: 0px;
+    width: 660px;
+}
+    
+.CajaDialogoBig div
+{
+    margin: 5px;
+    text-align: center;
+    padding: 0px;
+}
+
+.CajaDialogoBig div .Titulo
+{
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    background-color:#4B6C9E;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight:bold;
+}
+    
+.CajaDialogoProgreso
+{
+    border-width: 1px;
+    border-style: solid;
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 180px;
+    height: 65px;
+}
+
+.CajaDialogo {
+    background-color: White;
+    border-width: 4px;
+    border-style: outset;
+    border-color: #DDE4EC;
+    padding: 0px;
+    width: 560px;
+    /*position:absolute;*/
+    /*overflow: scroll;*/
+}
+
+
+
+.CajaDialogo div
+{
+    margin: 5px;
+    text-align: center;
+    padding: 0px;
+}
+
+    .CajaDialogo div .Titulo {
+        margin: 0px;
+        text-align: center;
+        padding: 5px;
+        background-color: #4B6C9E;
+        color: #FFFFFF;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    /*.CajaDialogo div .ModalPopupBIMS {
+        overflow: scroll;
+        min-width: 10px;
+        max-height: 500px;
+    }*/
+
+.CajaDialogoPeque
+{
+    background-color: White;
+    border-width: 4px;
+    border-style: outset;
+    border-color: #DDE4EC;
+    padding: 0px;
+    width: 400px;
+    /*height: 100px;*/
+}
+    
+.CajaDialogoPeque div
+{
+    margin: 5px;
+    text-align: center;
+    padding: 0px;
+}
+
+.CajaDialogoPeque div .Titulo
+{
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    background-color:#4B6C9E;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight:bold;
+}
+
+.CajaMagica div
+{
+    border-width: 0px;
+    padding: 0px;
+    margin: 0px;
+    /*margin: -4px;*/
+    text-align: left;
+}
+
+.PromptCSS
+{
+    position:absolute;
+    color:#999999;
+    font-size:12px;
+    font-family:Arial;
+    left:auto;
+    text-align: left;
+    /*height:12px;*/
+}
+
+.btnCerrarCajaDialogo {
+    DISPLAY: block;
+    background: url("../Imagenes/CerrarPanel.png") no-repeat 0px 0px;
+    /*right: -28px;
+    width: 50px;*/
+    right: 5px;
+    width: 25px;
+    text-indent: -1000em;
+    position: absolute;
+    /*top: -31px;*/
+    top: 5px;
+    /*height: 50px;*/
+    height: 25px;
+}
+
+/*.modalPopup {
+    background-color: #fff;
+    border: 3px solid #ccc;
+    padding: 10px;
+    width: 1000px;
+}*/
+
+/*.modalPopup {
+    background-color: #ff0000;
+    border-width: 3px;
+    border-style: solid;
+    border-color: Gray;
+    padding: 5px;
+    width: 350px;
+    height: 300px;
+}*/

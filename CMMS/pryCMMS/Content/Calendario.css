@@ -1,0 +1,84 @@
+﻿.calendario .ajax__calendar_container {
+    /*Es el contenedor grande*/
+    /*background-color: #e2e2e2;*/
+    background-color: #e2e2e2;
+    border: solid 1px #cccccc;
+    width: 220px;/*180px;*/
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+.calendario .ajax__calendar_header  {
+    background-color: #ffffff; 
+    /*margin-bottom: 4px;*/
+    margin-bottom: 0px;
+    /*Nuevos datos*/
+    padding: 0px;
+    margin: 0px;
+    border-width: 0px;
+}
+
+.calendario .ajax__calendar_title,
+.calendario .ajax__calendar_next,
+.calendario .ajax__calendar_prev    {
+    color: #004080; 
+    /*padding-top: 3px;*/
+    padding: 0px;
+    margin: 0px;
+    border-width: 0px;
+}
+
+.calendario .ajax__calendar_body    
+{
+    /*Es el recuadro pequeño*/
+    /*background-color: #e9e9e9;*/
+    background-color: White;
+    border: solid 1px #cccccc;
+    width: 208px;/*168px;*/
+    height:130px;
+    margin-left:5px;
+}
+
+.calendario .ajax__calendar_dayname {
+    /*Titulo de los días de la semana*/
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 4px;
+    margin-top: 2px;
+    /*Nuevos datos*/
+    padding: 0px;
+    margin: 0px;
+    border-width: 0px;
+    width: 30px;
+}
+
+.calendario .ajax__calendar_day 
+{
+    /*Son los numeros de los días del mes*/
+    text-align:center;
+    /*Nuevos datos*/
+    padding: 1.5px;
+    margin: 1.1px;
+    border-width: 0px;
+}
+
+.calendario .ajax__calendar_hover .ajax__calendar_day,
+.calendario .ajax__calendar_hover .ajax__calendar_month,
+.calendario .ajax__calendar_hover .ajax__calendar_year,
+.calendario .ajax__calendar_active  {
+    color: #004080; 
+    font-weight: bold; 
+    /*background-color: #ffffff;*/
+    background-color: #CCFFFF;
+}
+
+.calendario .ajax__calendar_today   {
+    font-weight:bold;
+}
+
+.calendario .ajax__calendar_other,
+.calendario .ajax__calendar_hover .ajax__calendar_today,
+.calendario .ajax__calendar_hover .ajax__calendar_title {
+    color: #bbbbbb;
+}
+
