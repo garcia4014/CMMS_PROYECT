@@ -1,0 +1,1022 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 37.75, 50.375" name="BDCMMS_Movitecnica">
+  <DataContextMoniker Name="/BDCMMS_MovitecnicaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="35c02196-bc2d-4405-8134-63f8e679ca57" absoluteBounds="30.25, 10.625, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_AREA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8069f030-d0ff-4486-b861-964d81a75698" absoluteBounds="30.265, 11.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="35567456-4f91-4a11-931e-197d2e112e66" absoluteBounds="20, 1.5, 2, 1.9631982421875003">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TRANSACCIONALMACEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b000fab3-a0f4-4a69-9b8b-795ce02f066e" absoluteBounds="20.015, 1.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8f80692d-2157-4989-b080-87f39a33ab9e" absoluteBounds="35.5, 7.125, 2, 1.7708968098958335">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_AREAELEMENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8ae26840-d6a1-4b76-874b-0b0902ea92f1" absoluteBounds="35.515, 7.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0402ad2c-8a7a-423b-a2a6-8dc05c9facee" absoluteBounds="17.25, 17.125, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_CLIENTEDIR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e01e9cce-cbbd-42f7-8cc4-a365bf3ff1eb" absoluteBounds="17.265, 17.585, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a45f877f-c638-44a9-9852-eae6dc9b1ad7" absoluteBounds="29.875, 3.875, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_CONFIGURACION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="229876f5-fd8b-4d4f-a2f1-91ff8dddc544" absoluteBounds="29.89, 4.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="03a01f6c-f71d-4631-a025-794c086ed7b7" absoluteBounds="26.5, 7, 2, 1.9631982421874996">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_ELEMENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="89411987-2549-4d07-8081-d6150211924c" absoluteBounds="26.515, 7.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0170b39b-3394-44c6-8b42-d1c1a1686608" absoluteBounds="14.5, 9.875, 2, 4.8477197265624987">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_EMPRESA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d30340a-8526-44cd-816a-0601d1de113f" absoluteBounds="14.515, 10.335, 1.9700000000000002, 4.2877197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c3a2418c-3d1a-49f6-bcf6-f91ce7c5e80a" absoluteBounds="11.75, 1.125, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_LOCAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f1d8042-84ec-47e1-9d36-6607371648c6" absoluteBounds="11.765, 1.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="693146dc-7130-4df1-99c0-3962ab9768b1" absoluteBounds="0.75, 19.75, 2, 3.6939111328125023">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_LOGAUDITORIA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba8da519-10ba-4659-a52c-46e26197798c" absoluteBounds="0.765, 20.21, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0800fa1f-cae5-48e9-b406-562458243b27" absoluteBounds="20.25, 7.25, 2, 1.9631982421874996">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_MODULO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="74faf8e6-e158-4ed4-b8cb-29babc4e009f" absoluteBounds="20.265, 7.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="427f7228-9e7c-43a5-91a9-43f297726dfa" absoluteBounds="23, 3.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_PERFIL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="38b04b98-1bf7-48c6-acb6-29e35c7100f3" absoluteBounds="23.015, 3.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ce505cfe-32d7-4e20-b587-e79413d7274b" absoluteBounds="17.5, 8.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_SISTEMA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b42d7e93-09f5-48ae-a07a-e770b401edf3" absoluteBounds="17.515, 8.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fb4c764e-804b-47ba-a82a-295e73223da6" absoluteBounds="20.25, 10.875, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_TABLASISTEMA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="465c21fe-7657-4ecb-ac97-3c315d192085" absoluteBounds="20.265, 11.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cfa4765c-3a3e-467e-a4e4-5430f8d67313" absoluteBounds="9.5, 18.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_TIPOCAMBIO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="941d46c3-f87d-45d3-8ced-ca3d8f26ccee" absoluteBounds="9.515, 18.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="aec791f6-f812-48db-bf63-e132443a3d24" absoluteBounds="6.5, 13.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_TIPODOCUMENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72d33bae-bd81-4e66-a141-626b0e47eec6" absoluteBounds="6.515, 14.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="588d7559-be60-4c60-9de9-488fbb3912d2" absoluteBounds="6.75, 18, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_TIPOMONEDA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a34fed9c-1c5d-4418-9c6d-60598dfddf22" absoluteBounds="6.765, 18.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="97665dde-5c27-4daf-a9f3-f07dcb899b06" absoluteBounds="11.75, 15, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_UBICACIONGEOGRAFICA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ad8a36db-90d4-4ec8-942d-66173d4b63b5" absoluteBounds="11.765, 15.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="70e6d935-65c3-40f3-8b9b-5350eb590c83" absoluteBounds="22.125, 14.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_UNIDADMEDIDA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5bd171fc-f359-4baa-ab7d-af9510bd803d" absoluteBounds="22.14, 15.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="45a9f2d8-33ff-4053-8d8c-1b13ba083f81" absoluteBounds="17.25, 11.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_USUARIOACCESO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5bbc9fc2-b880-465a-be53-7b4324767bd8" absoluteBounds="17.265, 11.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b36555ab-32e9-4392-bc59-d51f00deddf8" absoluteBounds="14.5, 1, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_ALMACEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f94dcac-c43c-40a9-8ee2-f3e9e05bb66e" absoluteBounds="14.515, 1.46, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1a90ebd6-0034-4445-9f4c-cb3090ec2556" absoluteBounds="17.25, 1.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_ASIGNACIONALMACEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2eb5881-06fa-4e7b-9168-809d2c5be92e" absoluteBounds="17.265, 1.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="95796acc-d35b-4bac-9305-6cb74e3991ad" absoluteBounds="3.25, 3.375, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_FAMILIA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3fc92573-31bb-4171-9895-0a3111379265" absoluteBounds="3.265, 3.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2bb44baa-ff99-47c5-8351-15e00bf23de6" absoluteBounds="9.25, 3, 2, 9.6552555338541666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_MAESTROACTIVO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="442e5c9c-438d-46dd-bfcc-57a01306569b" absoluteBounds="9.265, 3.46, 1.9700000000000002, 9.0952555338541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2cce4b81-9302-4ba0-9b83-6bd7ac80230b" absoluteBounds="4, 11.125, 2, 7.3476383463541683">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_MAESTROACTIVOSIW" />
+      <nestedChildShapes>
+        <elementListCompartment Id="81193bae-f2ea-40f2-80dd-053f988199e0" absoluteBounds="4.0150000000000006, 11.585, 1.9700000000000002, 6.7876383463541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c7f35c7-9923-4883-9ba1-7caa3293664f" absoluteBounds="6.5, 2.875, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_SUBFAMILIA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="04333b18-7949-4f89-8f93-bd7b3cead8ef" absoluteBounds="6.515, 3.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="293ff1cd-3763-40da-a495-6245a2c0852e" absoluteBounds="1, 6.125, 2, 1.5785953776041657">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TIPOACTIVO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa101237-8e92-4f7e-a7b4-047bfee7ebe8" absoluteBounds="1.0150000000000001, 6.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0785123f-35c9-4f50-a061-f0eec8d71800" absoluteBounds="14.5, 5.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TIPOALMACEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9742b987-38fd-4dca-9875-5f1341751f8f" absoluteBounds="14.515, 6.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="12b89396-602a-444b-b237-3e0468cd8293" absoluteBounds="17.25, 5.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TRANSACCION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="141e0287-d2e7-457a-99f6-8b2628ab05be" absoluteBounds="17.265, 5.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6cb28d72-d239-401d-a47a-8346f6e1ee21" absoluteBounds="0.75, 14, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_UBICACION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41f3bfdf-702e-4684-9894-65c7536c506c" absoluteBounds="0.765, 14.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(31.90625 : 10.625); (31.90625 : 8.73484537760417); (35.5 : 8.73484537760417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_AREA/GNRL_AREA_GNRL_AREAELEMENTO" />
+      <nodes>
+        <classShapeMoniker Id="35c02196-bc2d-4405-8134-63f8e679ca57" />
+        <classShapeMoniker Id="8f80692d-2157-4989-b080-87f39a33ab9e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(31.71875 : 10.625); (31.71875 : 6.4151025390625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_AREA/GNRL_AREA_GNRL_CONFIGURACION" />
+      <nodes>
+        <classShapeMoniker Id="35c02196-bc2d-4405-8134-63f8e679ca57" />
+        <classShapeMoniker Id="a45f877f-c638-44a9-9852-eae6dc9b1ad7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(28.5 : 8.59181966145833); (35.5 : 8.59181966145833)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_ELEMENTO/GNRL_ELEMENTO_GNRL_AREAELEMENTO" />
+      <nodes>
+        <classShapeMoniker Id="03a01f6c-f71d-4631-a025-794c086ed7b7" />
+        <classShapeMoniker Id="8f80692d-2157-4989-b080-87f39a33ab9e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(28.5 : 8.80876145182291); (31.6093725 : 8.80876145182291); (31.6093725 : 6.4151025390625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_ELEMENTO/GNRL_ELEMENTO_GNRL_CONFIGURACION" />
+      <nodes>
+        <classShapeMoniker Id="03a01f6c-f71d-4631-a025-794c086ed7b7" />
+        <classShapeMoniker Id="a45f877f-c638-44a9-9852-eae6dc9b1ad7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(22.25 : 7.34375); (26.5 : 7.34375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_MODULO/GNRL_MODULO_GNRL_ELEMENTO" />
+      <nodes>
+        <classShapeMoniker Id="0800fa1f-cae5-48e9-b406-562458243b27" />
+        <classShapeMoniker Id="03a01f6c-f71d-4631-a025-794c086ed7b7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(25 : 4.63869466145833); (29.875 : 4.63869466145833)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_PERFIL/GNRL_PERFIL_GNRL_CONFIGURACION" />
+      <nodes>
+        <classShapeMoniker Id="427f7228-9e7c-43a5-91a9-43f297726dfa" />
+        <classShapeMoniker Id="a45f877f-c638-44a9-9852-eae6dc9b1ad7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(19.5 : 8.73159912109375); (20.25 : 8.73159912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_SISTEMA/GNRL_SISTEMA_GNRL_MODULO" />
+      <nodes>
+        <classShapeMoniker Id="ce505cfe-32d7-4e20-b587-e79413d7274b" />
+        <classShapeMoniker Id="0800fa1f-cae5-48e9-b406-562458243b27" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.5 : 11.03125); (20.25 : 11.03125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_EMPRESA/GNRL_EMPRESA_GNRL_TABLASISTEMA" />
+      <nodes>
+        <classShapeMoniker Id="0170b39b-3394-44c6-8b42-d1c1a1686608" />
+        <classShapeMoniker Id="fb4c764e-804b-47ba-a82a-295e73223da6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(19.40625 : 10.4054996744792); (19.40625 : 13.5377018229167); (20.25 : 13.5377018229167)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_SISTEMA/GNRL_SISTEMA_GNRL_TABLASISTEMA" />
+      <nodes>
+        <classShapeMoniker Id="ce505cfe-32d7-4e20-b587-e79413d7274b" />
+        <classShapeMoniker Id="fb4c764e-804b-47ba-a82a-295e73223da6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 19.7107975260417); (9.5 : 19.7107975260417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_TIPOMONEDA/GNRL_TIPOMONEDA_GNRL_TIPOCAMBIO" />
+      <nodes>
+        <classShapeMoniker Id="588d7559-be60-4c60-9de9-488fbb3912d2" />
+        <classShapeMoniker Id="cfa4765c-3a3e-467e-a4e4-5430f8d67313" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.84375 : 15); (11.84375 : 13.3069075520833); (14.5 : 13.3069075520833)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_UBICACIONGEOGRAFICA/GNRL_UBICACIONGEOGRAFICA_GNRL_EMPRESA" />
+      <nodes>
+        <classShapeMoniker Id="97665dde-5c27-4daf-a9f3-f07dcb899b06" />
+        <classShapeMoniker Id="0170b39b-3394-44c6-8b42-d1c1a1686608" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.5 : 12.3277498372396); (17.25 : 12.3277498372396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_EMPRESA/GNRL_EMPRESA_GNRL_USUARIOACCESO" />
+      <nodes>
+        <classShapeMoniker Id="0170b39b-3394-44c6-8b42-d1c1a1686608" />
+        <classShapeMoniker Id="45a9f2d8-33ff-4053-8d8c-1b13ba083f81" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.75 : 2.8694482421875); (14.5 : 2.8694482421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_LOCAL/GNRL_LOCAL_LOGI_ALMACEN" />
+      <nodes>
+        <classShapeMoniker Id="c3a2418c-3d1a-49f6-bcf6-f91ce7c5e80a" />
+        <classShapeMoniker Id="b36555ab-32e9-4392-bc59-d51f00deddf8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(19.25 : 2.48159912109375); (20 : 2.48159912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_ASIGNACIONALMACEN/LOGI_ASIGNACIONALMACEN_LOGI_TRANSACCIONALMACEN" />
+      <nodes>
+        <classShapeMoniker Id="1a90ebd6-0034-4445-9f4c-cb3090ec2556" />
+        <classShapeMoniker Id="35567456-4f91-4a11-931e-197d2e112e66" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.5 : 2.42390055338542); (17.25 : 2.42390055338542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_ALMACEN/LOGI_ALMACEN_LOGI_ASIGNACIONALMACEN" />
+      <nodes>
+        <classShapeMoniker Id="b36555ab-32e9-4392-bc59-d51f00deddf8" />
+        <classShapeMoniker Id="1a90ebd6-0034-4445-9f4c-cb3090ec2556" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 3.91909912109375); (9.25 : 3.91909912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_SUBFAMILIA/LOGI_SUBFAMILIA_LOGI_MAESTROACTIVO" />
+      <nodes>
+        <classShapeMoniker Id="1c7f35c7-9923-4883-9ba1-7caa3293664f" />
+        <classShapeMoniker Id="2bb44baa-ff99-47c5-8351-15e00bf23de6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.25 : 4.10659912109375); (6.5 : 4.10659912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_FAMILIA/LOGI_FAMILIA_LOGI_SUBFAMILIA" />
+      <nodes>
+        <classShapeMoniker Id="95796acc-d35b-4bac-9305-6cb74e3991ad" />
+        <classShapeMoniker Id="1c7f35c7-9923-4883-9ba1-7caa3293664f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.5 : 5.625); (16.875 : 5.25); (16.875 : 3.04210283007813); (17.25 : 3.04210283007813)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TIPOALMACEN/LOGI_TIPOALMACEN_LOGI_ASIGNACIONALMACEN" />
+      <nodes>
+        <classShapeMoniker Id="0785123f-35c9-4f50-a061-f0eec8d71800" />
+        <classShapeMoniker Id="1a90ebd6-0034-4445-9f4c-cb3090ec2556" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(19.25 : 6.34375); (20.09375 : 6.34375); (20.09375 : 3.4631982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TRANSACCION/LOGI_TRANSACCION_LOGI_TRANSACCIONALMACEN" />
+      <nodes>
+        <classShapeMoniker Id="12b89396-602a-444b-b237-3e0468cd8293" />
+        <classShapeMoniker Id="35567456-4f91-4a11-931e-197d2e112e66" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 14.8854484049479); (4 : 14.8854484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_UBICACION/LOGI_UBICACION_LOGI_MAESTROACTIVOSIW" />
+      <nodes>
+        <classShapeMoniker Id="6cb28d72-d239-401d-a47a-8346f6e1ee21" />
+        <classShapeMoniker Id="2cce4b81-9302-4ba0-9b83-6bd7ac80230b" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="e7d6a005-2c9e-4b78-a4ef-9e7dad7a2304" absoluteBounds="34.5, 10.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_AREA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4712d778-7389-4345-a5fe-849337ce4235" absoluteBounds="34.515, 10.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="967e6d4e-cfd3-4448-bb4b-8db1f6a6070a" absoluteBounds="29.5, 7.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_ELEMENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4a6bf576-df77-4469-bf27-91c1fc018e6a" absoluteBounds="29.515, 7.5850000000000009, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6d4cd52f-6c2d-44e0-ac43-756a5835a6a9" absoluteBounds="23, 7.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_MODULO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c79f1c71-a1f1-46ef-895e-418a75ca0e42" absoluteBounds="23.015, 7.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f983557-d61d-4d7a-b875-af61074d6b0a" absoluteBounds="11.875, 18.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_TIPOCAMBIO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f636e45-d1bf-4440-aad1-56eca01e840e" absoluteBounds="11.89, 18.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="009eaec7-f13b-45c7-a1d0-339af0d62f78" absoluteBounds="22.75, 11, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_TABLASISTEMA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="baa4ab43-c2ac-4556-b42f-07187104fd55" absoluteBounds="22.765, 11.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f467f59f-40c8-44dc-badd-aadf80c246fe" absoluteBounds="17, 24.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_USUARIO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c751d11-7a3e-4ef1-b710-0eccb7fc5292" absoluteBounds="17.015, 25.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="37861c22-0df8-4b8e-97d8-f36fde4f5f70" absoluteBounds="4.375, 18.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_TIPOMONEDA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c6cb422-3178-428d-ad63-77e16d8a9f21" absoluteBounds="4.3900000000000006, 19.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b03f30c8-563b-44ef-ac08-ac631bc58549" absoluteBounds="9.125, 14, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_TIPODOCUMENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ae72b73b-ccf3-4d12-8fe3-14315276ab6c" absoluteBounds="9.14, 14.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="de8bd3f5-daaa-4274-82b1-e1304b3eecf2" absoluteBounds="25.625, 3.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_PERFIL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8e06d61-eaea-4085-80f2-7622074a9741" absoluteBounds="25.64, 3.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0e14e65d-62fa-47e6-af2d-f4d01849e73a" absoluteBounds="12, 10.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_EMPRESA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a537bfba-4ba0-4f0f-9098-c2a7be92a085" absoluteBounds="12.015, 10.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5493b329-bf74-4983-96e7-ed29f33fcb9f" absoluteBounds="17.25, 21.625, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_PUNTOVENTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd72f940-9206-4e9c-8ce2-ddfd1f58792b" absoluteBounds="17.265, 22.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(16.5 : 14.661180265024); (16.6910744349011 : 14.8522546999251 : JumpStart); (16.8089255650989 : 14.9701058301229 : JumpEnd); (17.0625 : 15.223680265024); (17.0625 : 22.8950512695313); (17.25 : 22.8950512695313)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_EMPRESA/GNRL_EMPRESA_GNRL_PUNTOVENTA" />
+      <nodes>
+        <classShapeMoniker Id="0170b39b-3394-44c6-8b42-d1c1a1686608" />
+        <classShapeMoniker Id="5493b329-bf74-4983-96e7-ed29f33fcb9f" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1a0d15c1-37c4-423b-a1e9-f707d882a5fd" absoluteBounds="19.5, 21.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_PUNTOVENTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4bf3170-02d3-41b5-98b9-28a4d1b01bea" absoluteBounds="19.515, 22.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5e49d7db-7686-4322-b56c-f39444ec4ec1" absoluteBounds="9.375, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_LOCAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e273e139-a853-47c2-9f60-0c10704098cd" absoluteBounds="9.39, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c2513d5-b115-43d0-8b75-4bc9cb33be52" absoluteBounds="19.75, 18, 2, 3.1170068359375">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_CLIENTE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4d094bc0-28a9-4dd9-a95a-59eb26ff1624" absoluteBounds="19.765, 18.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8b1abe5c-e5a2-46da-86a1-2f012ec44559" absoluteBounds="12, 20.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_TIPOPERSONA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a8feb8c5-917a-4ea7-bb57-3fb3f0a0287c" absoluteBounds="12.015, 20.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6a95ed2e-8501-4b67-8e39-d998af0979c4" absoluteBounds="9.75, 20.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_TIPOPERSONA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="005d5a26-08ee-43de-84bd-cec84c43c55e" absoluteBounds="9.765, 20.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bef9ca4c-1888-468d-9714-2c28e92b2a22" absoluteBounds="17.375, 14.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_ESTADOCIVIL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d9f89f42-64d7-4da2-aa76-bc15b34805bd" absoluteBounds="17.39, 15.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="18ccabf2-26ab-4a37-902f-17eada48108b" absoluteBounds="19.625, 14.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_ESTADOCIVIL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="340d2620-1772-40b2-8782-3ff30b60701b" absoluteBounds="19.64, 15.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8623d635-68ad-40c1-82b1-07f738f74212" absoluteBounds="0.75, 0.5, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_CORRELATIVODOCUMENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="57256527-2833-48ec-bebf-00f14fcd190c" absoluteBounds="0.76500000000000012, 0.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d20742e4-5415-4ebd-8078-51b51718c35b" absoluteBounds="32.625, 3.875, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_CONFIGURACION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d3ec54d-3318-4963-b939-1532a2b4aea4" absoluteBounds="32.64, 4.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="01279f07-0898-4d50-8013-55ae326f33ce" absoluteBounds="15.125, 8, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_SISTEMA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c24f03e9-3551-420a-acc6-d90e3d3f870a" absoluteBounds="15.14, 8.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f48f8a87-8cf4-43ad-8285-ea05d9f139f4" absoluteBounds="1, 8, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_TIPOACTIVO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19f8afa7-0b48-4174-a6d2-f8239ee8be03" absoluteBounds="1.0150000000000001, 8.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="226c9bb2-e371-4304-9ae1-a56bfc8ab9e0" absoluteBounds="3.125, 0.5, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_CORRELATIVODOCUMENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ae0fb86a-10f7-4e4c-aec4-b3379d6fde18" absoluteBounds="3.14, 0.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c5106aa9-31ea-487c-8fe8-66fd93b42829" absoluteBounds="5.875, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CARACTERISTICA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="028300a5-0e4f-44ae-9411-802cbb2bd54f" absoluteBounds="5.89, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="90e3a3c3-5118-4738-b525-2e7761a67fe2" absoluteBounds="8.125, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_CARACTERISTICA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d27f991-74a5-4117-b340-49b0c1b22983" absoluteBounds="8.14, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="964f52d8-e825-413d-b4e0-7f0ea34af415" absoluteBounds="6.375, 5.5, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_CATALOGO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9368e449-bf1d-42ea-88fc-69805dab5005" absoluteBounds="6.39, 5.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6664b87b-f976-43ed-99e8-887ddd94a8dd" absoluteBounds="14.5, 16.75, 2, 6.7707340494791657">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_CLIENTE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc9e6389-21b1-4d77-8f95-6f2a0b2985cd" absoluteBounds="14.515, 17.21, 1.9700000000000002, 6.2107340494791661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(16.5 : 18.7796541341146); (16.6666666666667 : 18.7796541341146 : JumpStart); (16.8333333333333 : 18.7796541341146 : JumpEnd); (16.9791666666667 : 18.7796541341146 : JumpStart); (17.1458333333333 : 18.7796541341146 : JumpEnd); (17.25 : 18.7796541341146)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_CLIENTE/GNRL_CLIENTE_GNRL_CLIENTEDIR" />
+      <nodes>
+        <classShapeMoniker Id="6664b87b-f976-43ed-99e8-887ddd94a8dd" />
+        <classShapeMoniker Id="0402ad2c-8a7a-423b-a2a6-8dc05c9facee" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.375 : 15.6642976888021); (17.1458333333333 : 15.6642976888021 : JumpStart); (16.9791666666667 : 15.6642976888021 : JumpEnd); (16.8333333333333 : 15.6642976888021 : JumpStart); (16.6666666666667 : 15.6642976888021 : JumpEnd); (15.5 : 15.6642976888021); (15.5 : 16.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_ESTADOCIVIL/GNRL_ESTADOCIVIL_GNRL_CLIENTE" />
+      <nodes>
+        <classShapeMoniker Id="bef9ca4c-1888-468d-9714-2c28e92b2a22" />
+        <classShapeMoniker Id="6664b87b-f976-43ed-99e8-887ddd94a8dd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 21.1354484049479); (14.5 : 21.1354484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_TIPOPERSONA/GNRL_TIPOPERSONA_GNRL_CLIENTE" />
+      <nodes>
+        <classShapeMoniker Id="8b1abe5c-e5a2-46da-86a1-2f012ec44559" />
+        <classShapeMoniker Id="6664b87b-f976-43ed-99e8-887ddd94a8dd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.75 : 16.175896344401); (14.9687475 : 16.175896344401); (14.9687475 : 16.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_UBICACIONGEOGRAFICA/GNRL_UBICACIONGEOGRAFICA_GNRL_CLIENTE" />
+      <nodes>
+        <classShapeMoniker Id="97665dde-5c27-4daf-a9f3-f07dcb899b06" />
+        <classShapeMoniker Id="6664b87b-f976-43ed-99e8-887ddd94a8dd" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="ccc90cde-3e6b-4588-a510-fd15d0488825" absoluteBounds="3.875, 5.5, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CATALOGO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d624cf8b-e3ff-48a6-a7eb-8c8a699d68b1" absoluteBounds="3.8899999999999997, 5.9600000000000009, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3 : 6.91429768880208); (3.875 : 6.91429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TIPOACTIVO/LOGI_TIPOACTIVO_LOGI_CATALOGO" />
+      <nodes>
+        <classShapeMoniker Id="293ff1cd-3763-40da-a495-6245a2c0852e" />
+        <classShapeMoniker Id="ccc90cde-3e6b-4588-a510-fd15d0488825" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="94ca7a4f-553d-4c32-9899-0a0f27213ba8" absoluteBounds="6.375, 9.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_SISTEMAFUNCIONAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="49580fb2-be14-4987-a7e0-4e4d8db62ba5" absoluteBounds="6.39, 9.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.375 : 9.125); (5.875 : 8.80930826822917)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_SISTEMAFUNCIONAL/LOGI_SISTEMAFUNCIONAL_LOGI_CATALOGO" />
+      <nodes>
+        <classShapeMoniker Id="94ca7a4f-553d-4c32-9899-0a0f27213ba8" />
+        <classShapeMoniker Id="ccc90cde-3e6b-4588-a510-fd15d0488825" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="0e6efc53-97bf-4caf-ad34-0350d4a198f4" absoluteBounds="6.375, 11.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_SISTEMAFUNCIONAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="40b26185-8fef-4cd8-b4fe-a48d4962b727" absoluteBounds="6.39, 11.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b484ffd0-8c54-4665-afb7-a17b34917549" absoluteBounds="9.75, 22.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TIPOMANTENIMIENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ff67e79d-2a68-4b74-ac65-a740c1ba3bbb" absoluteBounds="9.765, 22.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5a81fb22-7f91-4c83-be46-3db0a25c9f7b" absoluteBounds="12, 22.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_TIPOMANTENIMIENTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d894946e-7885-48c7-941d-91c726b9b4ed" absoluteBounds="12.015, 22.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f3286f5c-17c0-481f-8982-3dfc29b12344" absoluteBounds="9.75, 24.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_ACTIVIDADCHECKLIST" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c32f128-087b-4853-ab89-9f80af11bfe6" absoluteBounds="9.765, 24.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4c037efc-6d2e-4082-8882-fa5b5b0fef36" absoluteBounds="12, 24.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_ACTIVIDADCHECKLIST" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7cc2a4c8-b0b8-4175-9718-41bcaa239319" absoluteBounds="12.015, 24.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b48cf92c-c9d7-4cde-9e6d-070bc3956238" absoluteBounds="9.75, 28.75, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_DETALLECHECKLISTPLANTILLA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ac0fe70-c115-4f91-a780-cde8a7c6308a" absoluteBounds="9.765, 29.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="196a1ef6-3b69-41ff-88a6-ce8a6aaa543c" absoluteBounds="12, 29, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_DETALLECHECKLISTPLANTILLA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b31e37b-8fb5-4336-85d8-10cf1599ec09" absoluteBounds="12.015, 29.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3a0b17ac-28b8-42ff-aaff-9c469947672e" absoluteBounds="3.875, 32.75, 2, 11.001365559895833">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_PERSONAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5fa75c93-6c57-4613-b1b2-3c4bd2971aa5" absoluteBounds="3.89, 33.21, 1.9700000000000002, 10.441365559895832" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9f6db819-3564-4147-983b-2dd46b2915b7" absoluteBounds="6.25, 31.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_RRHH_PERSONAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f0a8881-aef1-416c-952f-4750cc9f9e31" absoluteBounds="6.265, 31.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19fcf7c8-1cfb-4d05-b9c6-26c63adb5b0c" absoluteBounds="16.875, 32.75, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_DETALLEORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f115c5e1-3114-40b7-a098-315751403c55" absoluteBounds="16.89, 33.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f363829e-2a9a-4bdf-8ad9-a155800af1d1" absoluteBounds="14.5, 38.125, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TAREACHECKLISTORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f9b146c-e08a-429b-bf55-e6c2b13b22c2" absoluteBounds="14.515, 38.585, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.875 : 39.7267163085938); (14.5 : 39.7267163085938)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_PERSONAL/RRHH_PERSONAL_LOGI_TAREACHECKLISTORDENTRABAJO" />
+      <nodes>
+        <classShapeMoniker Id="3a0b17ac-28b8-42ff-aaff-9c469947672e" />
+        <classShapeMoniker Id="f363829e-2a9a-4bdf-8ad9-a155800af1d1" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="3e6aa566-4314-4712-9467-a7af39060007" absoluteBounds="21.625, 36.875, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_CHECKLISTORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43b12c2b-19fa-4732-adbc-b45a7386c7a9" absoluteBounds="21.64, 37.335, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e0b35f8e-ef4b-45d4-b79e-e3a2281631d1" absoluteBounds="14.5, 34, 2, 4.4631168619791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CHECKLISTORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af4b7844-abba-4e3a-abb2-8c529b19f909" absoluteBounds="14.515, 34.46, 1.9700000000000002, 3.903116861979167" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e57d4779-6555-4c17-8954-c3fcb3d26d57" absoluteBounds="19.125, 32.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_DETALLEORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="15716b26-2478-4bd1-8e1d-75f13caab418" absoluteBounds="19.14, 33.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="800eae31-4bfa-455b-a2db-a9ba725e1f94" absoluteBounds="24, 36.875, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_OTROSDATOSORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eaaa0b74-9ec1-4422-8cb4-87d87ddaa27a" absoluteBounds="24.015, 37.335, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(16.5 : 36.5945543502604); (25.03125 : 36.5945543502604); (25.03125 : 36.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CHECKLISTORDENTRABAJO/LOGI_CHECKLISTORDENTRABAJO_LOGI_OTROSDATOSORDENTRABAJO" />
+      <nodes>
+        <classShapeMoniker Id="e0b35f8e-ef4b-45d4-b79e-e3a2281631d1" />
+        <classShapeMoniker Id="800eae31-4bfa-455b-a2db-a9ba725e1f94" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="794473af-4ae2-4d50-89e5-fb89cf4a91e6" absoluteBounds="26.25, 36.875, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_OTROSDATOSORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e5c5deb6-78ea-48af-9496-5cc09fd94fe6" absoluteBounds="26.265, 37.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4903240c-517e-4229-85cf-bb018fbea061" absoluteBounds="22, 32.625, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_RECURSOSORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b15ecd33-4dba-462d-8b60-ed51b0764941" absoluteBounds="22.015, 33.085, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.95312725 : 32.75); (4.95312725 : 32.6875); (6.1875 : 32.6875); (6.1875 : 33.4375); (8.6875 : 33.4375); (8.6875 : 32.6875); (9.60416666666667 : 32.6875 : JumpStart); (9.77083333333333 : 32.6875 : JumpEnd); (21.90625 : 32.6875); (21.90625 : 34.0873527018229); (22 : 34.0873527018229)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_PERSONAL/RRHH_PERSONAL_LOGI_RECURSOSORDENTRABAJO" />
+      <nodes>
+        <classShapeMoniker Id="3a0b17ac-28b8-42ff-aaff-9c469947672e" />
+        <classShapeMoniker Id="4903240c-517e-4229-85cf-bb018fbea061" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="65cfb36b-d65c-4cb1-9742-42190347d463" absoluteBounds="0.75, 23.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_TIPOCERTIFICADO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3a660378-5c73-4a67-8ad8-fcd6b43250f0" absoluteBounds="0.76500000000000012, 24.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd2be571-2e72-476b-a730-4c07b0495ca4" absoluteBounds="0.875, 25.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_RRHH_TIPOCERTIFICADO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d1db933e-6c23-49bb-8438-5f2cf7580043" absoluteBounds="0.89000000000000012, 26.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="00ba63f8-7281-438b-a6a0-49cbb3f30dbb" absoluteBounds="0.875, 27.875, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_ASIGNARCERTIFICADO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0f231c4f-81ed-4f09-81ad-5209076f9708" absoluteBounds="0.89000000000000012, 28.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.9687505 : 32.75); (3.9687505 : 29.7555249023438); (2.875 : 29.7555249023438)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_PERSONAL/RRHH_PERSONAL_RRHH_ASIGNARCERTIFICADO" />
+      <nodes>
+        <classShapeMoniker Id="3a0b17ac-28b8-42ff-aaff-9c469947672e" />
+        <classShapeMoniker Id="00ba63f8-7281-438b-a6a0-49cbb3f30dbb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(0.751213304136619 : 25.4535953776042); (0.37621330413662 : 25.8285953776042); (0.5 : 25.8285953776042); (0.5 : 27.5); (0.875 : 27.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_TIPOCERTIFICADO/RRHH_TIPOCERTIFICADO_RRHH_ASIGNARCERTIFICADO" />
+      <nodes>
+        <classShapeMoniker Id="65cfb36b-d65c-4cb1-9742-42190347d463" />
+        <classShapeMoniker Id="00ba63f8-7281-438b-a6a0-49cbb3f30dbb" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="d3c20095-be78-45f4-a584-3b31d53192b7" absoluteBounds="25.125, 19.125, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_DETALLECONTRATO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ded6bfe6-7443-4c52-b2e3-47d1c8852be7" absoluteBounds="25.14, 19.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f4d8006-f022-4e12-aa1b-f98f65782cc8" absoluteBounds="25.125, 22.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_DETALLECONTRATO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1454094b-5019-4728-b80b-59af1c23ea5e" absoluteBounds="25.14, 22.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a5545211-6b81-431e-b106-41e778c4c6da" absoluteBounds="22.625, 17.75, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERACONTRATO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4806bb0c-310f-4ebb-a5f8-d10d4c613e71" absoluteBounds="22.64, 18.21, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(24.625 : 20.2989005533854); (25.125 : 20.2989005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERACONTRATO/LOGI_CABECERACONTRATO_LOGI_DETALLECONTRATO" />
+      <nodes>
+        <classShapeMoniker Id="a5545211-6b81-431e-b106-41e778c4c6da" />
+        <classShapeMoniker Id="d3c20095-be78-45f4-a584-3b31d53192b7" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="104ce2fd-21a5-43f6-86ff-de829b12bdaf" absoluteBounds="28.375, 19.125, 2, 3.1170068359375">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_PLANIFICACIONEQUIPOCONTRATO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="65af6517-0134-425f-9726-8e356e393342" absoluteBounds="28.39, 19.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(27.125 : 20.2989005533854); (28.375 : 20.2989005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_DETALLECONTRATO/LOGI_DETALLECONTRATO_LOGI_PLANIFICACIONEQUIPOCONTRATO" />
+      <nodes>
+        <classShapeMoniker Id="d3c20095-be78-45f4-a584-3b31d53192b7" />
+        <classShapeMoniker Id="104ce2fd-21a5-43f6-86ff-de829b12bdaf" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="114c412c-c421-49f8-a391-f5c5b61e4cf9" absoluteBounds="6.25, 36.375, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_GNRL_VIDEOTUTORIAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f864ffbc-549f-4559-a251-1358ebe30cce" absoluteBounds="6.265, 36.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="14e04bb1-0ba2-4dc4-bddb-81a1e0a9dd27" absoluteBounds="6.25, 33.5, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_VIDEOTUTORIAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8afbbf63-8278-4090-ac2f-07e1b7275982" absoluteBounds="6.265, 33.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad9dbb8c-23ce-43ce-9edd-01a3e19dd797" absoluteBounds="9.875, 26.125, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERACHECKLISTPLANTILLA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b877aa47-35c1-42d8-9fab-ba95200e9f9f" absoluteBounds="9.89, 26.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.75 : 23.1354484049479); (9.6875 : 23.1354484049479); (9.6875 : 26.03125); (10.875 : 26.03125); (10.875 : 26.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TIPOMANTENIMIENTO/LOGI_TIPOMANTENIMIENTO_LOGI_CABECERACHECKLISTPLANTILLA" />
+      <nodes>
+        <classShapeMoniker Id="b484ffd0-8c54-4665-afb7-a17b34917549" />
+        <classShapeMoniker Id="ad9dbb8c-23ce-43ce-9edd-01a3e19dd797" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="e2aac8e6-0653-4dcf-9bd1-f671067beb3f" absoluteBounds="12.125, 25.875, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_CABECERACHECKLISTPLANTILLA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a803c637-6ccd-413e-940c-b1b6b79b6de1" absoluteBounds="12.14, 26.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="58b12155-dcb7-4f22-8fdb-3cf720f37a29" absoluteBounds="11.75, 5.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TIPOEQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7c5998e0-fbf8-4601-93d0-0ad6988417a7" absoluteBounds="11.765, 5.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f8ad4114-d99f-4303-8a59-8bae37edad80" absoluteBounds="11.75, 7, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_TIPOEQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26201573-09e7-4d0d-ab64-9eefe267eaef" absoluteBounds="11.765, 7.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="22b58292-799a-4da0-a703-b01bb09ea052" absoluteBounds="6.75, 20.875, 2, 4.2708154296875">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_EQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="694ac39e-93f0-4dc1-b351-4b2a71ddc1f4" absoluteBounds="6.765, 21.335, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ac64bd5c-0842-4655-9e94-27e1c236bf26" absoluteBounds="1, 10, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CATALOGOCARACTERISTICA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="856d7683-ada4-4d13-ae46-e5c804204867" absoluteBounds="1.0150000000000001, 10.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.1875 : 2.07859537760417); (6.1875 : 10.9142976888021); (3.70833333333333 : 10.9142976888021 : JumpStart); (3.54166666666667 : 10.9142976888021 : JumpEnd); (3 : 10.9142976888021)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CARACTERISTICA/LOGI_CARACTERISTICA_LOGI_CATALOGOCARACTERISTICA" />
+      <nodes>
+        <classShapeMoniker Id="c5106aa9-31ea-487c-8fe8-66fd93b42829" />
+        <classShapeMoniker Id="ac64bd5c-0842-4655-9e94-27e1c236bf26" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.890625 : 8.80930826822917); (3.890625 : 10.425896344401); (3.70833333333333 : 10.425896344401 : JumpStart); (3.54166666666667 : 10.425896344401 : JumpEnd); (3 : 10.425896344401)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CATALOGO/LOGI_CATALOGO_LOGI_CATALOGOCARACTERISTICA" />
+      <nodes>
+        <classShapeMoniker Id="ccc90cde-3e6b-4588-a510-fd15d0488825" />
+        <classShapeMoniker Id="ac64bd5c-0842-4655-9e94-27e1c236bf26" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="3f144716-f3d7-422b-aa9e-a6706b99df39" absoluteBounds="6.75, 25.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_EQUIPOCARACTERISTICA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4138774-c7a4-495c-aefa-7fe679ac9be8" absoluteBounds="6.765, 25.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8459d1fa-0d67-4c37-8a4e-aa26ae92c651" absoluteBounds="11.5, 33, 2, 5.8092268880208326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_CABECERAORDENFABRICACION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bc218691-a9a2-4b8d-9e34-a5399b524adc" absoluteBounds="11.515, 33.46, 1.9700000000000002, 5.249226888020833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19f0794f-7081-45ca-8027-711ade0de42b" absoluteBounds="25.125, 24.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_COMPONENTEORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="785a833e-523d-4278-b3ae-ce66b488bfb1" absoluteBounds="25.14, 25.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f21aca3d-dad4-4444-84ab-48dcf70b0b39" absoluteBounds="22.75, 24.75, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_COMPONENTEORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e99dba9f-0c54-4dc5-ad20-cf489c1cbf92" absoluteBounds="22.765, 25.21, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f962a23c-53c9-4749-9de4-e88f614c0cd5" absoluteBounds="16.75, 37.5, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_GALERIACHECKLISTORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="42379d8d-72e5-47a0-a3b7-410e3144b796" absoluteBounds="16.765, 37.96, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(16.5 : 37.9815584309896); (16.75 : 37.9815584309896)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CHECKLISTORDENTRABAJO/LOGI_CHECKLISTORDENTRABAJO_LOGI_GALERIACHECKLISTORDENTRABAJO" />
+      <nodes>
+        <classShapeMoniker Id="e0b35f8e-ef4b-45d4-b79e-e3a2281631d1" />
+        <classShapeMoniker Id="f962a23c-53c9-4749-9de4-e88f614c0cd5" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="aaae3e2f-7439-4140-8286-003000848eee" absoluteBounds="19, 37.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_GALERIACHECKLISTORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a0a018d1-13a6-4446-8bf7-4f727704ac68" absoluteBounds="19.015, 37.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="badaf091-6a69-4ad1-9694-017319838a4b" absoluteBounds="4, 20.75, 2, 8.8860498046875">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_EQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ace655b-b129-4e8a-ba2c-c1f2692723e8" absoluteBounds="4.015, 21.21, 1.9700000000000002, 8.3260498046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.87653746153846 : 8.80930826822917); (3.50153746153846 : 9.18430826822917); (3.625 : 9.18430826822917); (3.625 : 20.375); (4 : 20.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CATALOGO/LOGI_CATALOGO_LOGI_EQUIPO" />
+      <nodes>
+        <classShapeMoniker Id="ccc90cde-3e6b-4588-a510-fd15d0488825" />
+        <classShapeMoniker Id="badaf091-6a69-4ad1-9694-017319838a4b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(12.75 : 6.82859537760417); (12.75 : 6.9375); (11.6875 : 6.9375); (11.6875 : 20.4375); (8.8125 : 20.4375); (8.8125 : 28.3301495533854); (6 : 28.3301495533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_TIPOEQUIPO/LOGI_TIPOEQUIPO_LOGI_EQUIPO" />
+      <nodes>
+        <classShapeMoniker Id="58b12155-dcb7-4f22-8fdb-3cf720f37a29" />
+        <classShapeMoniker Id="badaf091-6a69-4ad1-9694-017319838a4b" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="a1a696e7-2ea7-4f32-852f-b45c486a20c3" absoluteBounds="8.75, 32.875, 2, 6.5784326171875">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERAORDENFABRICACION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6f780213-442e-49f8-81a7-76b1874c517c" absoluteBounds="8.765, 33.335, 1.9700000000000002, 6.0184326171875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 28.0264728300781); (8.72916666666667 : 28.0264728300781 : JumpStart); (8.89583333333333 : 28.0264728300781 : JumpEnd); (9.6875 : 28.0264728300781); (9.6875 : 32.78125); (9.75 : 32.78125); (9.75 : 32.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_EQUIPO/LOGI_EQUIPO_LOGI_CABECERAORDENFABRICACION" />
+      <nodes>
+        <classShapeMoniker Id="badaf091-6a69-4ad1-9694-017319838a4b" />
+        <classShapeMoniker Id="a1a696e7-2ea7-4f32-852f-b45c486a20c3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.875 : 38.9270654296875); (8.75 : 38.9270654296875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_PERSONAL/RRHH_PERSONAL_LOGI_CABECERAORDENFABRICACION" />
+      <nodes>
+        <classShapeMoniker Id="3a0b17ac-28b8-42ff-aaff-9c469947672e" />
+        <classShapeMoniker Id="a1a696e7-2ea7-4f32-852f-b45c486a20c3" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="6ed0a09d-ea58-4dc3-ad07-a3270814b9b8" absoluteBounds="0.5, 43.375, 2, 6.7707340494791657">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERAORDENVENTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9c6b3e4-3e7f-43a5-8c3c-74758e9ac7cd" absoluteBounds="0.51500000000000057, 43.835, 1.9700000000000002, 6.2107340494791661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9adfbd9e-362c-4726-8e2d-bd554e44591b" absoluteBounds="3.125, 43.25, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_DETALLEORDENVENTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4236efc2-6f47-4f59-ba82-b47c4c168d94" absoluteBounds="3.1399999999999997, 43.71, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e812b635-c113-4f19-b548-15db44e58063" absoluteBounds="9.25, 40, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_DETALLEORDENFABRICACION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5145a8a3-f57f-4c6e-ae33-0d7ae80fae12" absoluteBounds="9.265, 40.46, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(10 : 39.4534326171875); (10 : 40)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERAORDENFABRICACION/LOGI_CABECERAORDENFABRICACION_LOGI_DETALLEORDENFABRICACION" />
+      <nodes>
+        <classShapeMoniker Id="a1a696e7-2ea7-4f32-852f-b45c486a20c3" />
+        <classShapeMoniker Id="e812b635-c113-4f19-b548-15db44e58063" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="f7d9c127-8fe2-4d40-b70f-484772c8ae26" absoluteBounds="5.625, 43.5, 2, 6.3861311848958326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_CABECERAORDENVENTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="35820aca-c358-43c8-acae-a2876128684b" absoluteBounds="5.64, 43.96, 1.9700000000000002, 5.826131184895833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9ab29a2d-35fe-489d-8aeb-7e3c9b0b0358" absoluteBounds="4.125, 29.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_GALERIAEQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="58a410c7-7532-48fc-9144-c909dbc26933" absoluteBounds="4.1400000000000006, 30.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.0625 : 29.6360498046875); (5.0625 : 29.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_EQUIPO/LOGI_EQUIPO_LOGI_GALERIAEQUIPO" />
+      <nodes>
+        <classShapeMoniker Id="badaf091-6a69-4ad1-9694-017319838a4b" />
+        <classShapeMoniker Id="9ab29a2d-35fe-489d-8aeb-7e3c9b0b0358" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="750e4377-9847-46c6-b637-35936aa707b8" absoluteBounds="7, 28.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_GALERIAEQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5d138549-cf84-4d20-8d9f-cb6e441cd2fe" absoluteBounds="7.015, 29.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9cdbe57c-83b9-4ad8-b290-e98396f8d322" absoluteBounds="6.625, 16.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_ARTICULOSAP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91dbe5de-a671-4a0a-acbc-e6dac3265a6c" absoluteBounds="6.64, 16.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8ef72e73-0b23-448d-a72a-8f6302e48e12" absoluteBounds="22.625, 22, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_CABECERACONTRATO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3ee0c6c3-fefa-4c55-9ec0-d53b0007fb46" absoluteBounds="22.64, 22.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71e58a9d-819f-4e8f-85bf-f249578a8d4c" absoluteBounds="17.375, 27.5, 2, 4.6554182942708326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/VI_LOGI_CABECERAORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9789292-deab-4c74-a534-6caa35c68077" absoluteBounds="17.39, 27.96, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="369be705-12a1-4a8f-abbe-4b7904881415" absoluteBounds="19.625, 27.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CONTRATOVIGENCIA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3b6ee6d5-5552-4b0f-81dc-ad0a8ef7a3b8" absoluteBounds="19.64, 27.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="15a77caf-c6c1-41bd-8973-6b7929379a8e" absoluteBounds="14.375, 23.75, 2, 4.4631168619791666">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_USUARIO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41d402a1-3612-495f-ab2d-bb2119dd64e2" absoluteBounds="14.39, 24.21, 1.9700000000000002, 3.903116861979167" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(16.375 : 25.9815584309896); (16.75 : 25.9815584309896); (16.75 : 13.7804996744792); (18.25 : 13.7804996744792); (18.25 : 13.4054996744792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_USUARIO/GNRL_USUARIO_GNRL_USUARIOACCESO" />
+      <nodes>
+        <classShapeMoniker Id="15a77caf-c6c1-41bd-8973-6b7929379a8e" />
+        <classShapeMoniker Id="45a9f2d8-33ff-4053-8d8c-1b13ba083f81" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1034c4fc-7ea2-4972-a4a4-7e1b31660096" absoluteBounds="0.875, 34.375, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/RRHH_ASIGNARFIRMA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="83a46b30-01f1-404d-a62b-3b3d05dd95eb" absoluteBounds="0.89000000000000012, 34.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(14.375 : 25.9815584309896); (14.1875 : 25.9815584309896); (14.1875 : 31.3526025390625); (9.77083333333333 : 31.3526025390625 : JumpStart); (9.60416666666667 : 31.3526025390625 : JumpEnd); (8.3125 : 31.3526025390625); (8.3125 : 33.4375); (6.1875 : 33.4375); (6.1875 : 32.2853011067708); (4.05208383333333 : 32.2853011067708 : JumpStart); (3.88541716666667 : 32.2853011067708 : JumpEnd); (1.875 : 32.2853011067708); (1.875 : 34.375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/GNRL_USUARIO/GNRL_USUARIO_RRHH_ASIGNARFIRMA" />
+      <nodes>
+        <classShapeMoniker Id="15a77caf-c6c1-41bd-8973-6b7929379a8e" />
+        <classShapeMoniker Id="1034c4fc-7ea2-4972-a4a4-7e1b31660096" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="87b68a90-88d9-42cc-b74e-e39c74be5ef8" absoluteBounds="14.375, 28.875, 2, 5.8092268880208326">
+      <DataClassMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERAORDENTRABAJO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="90b5332d-c847-4c77-bb9f-1582ba6ae798" absoluteBounds="14.39, 29.335, 1.9700000000000002, 5.249226888020833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(16.375 : 33.34375); (16.875 : 33.34375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERAORDENTRABAJO/LOGI_CABECERAORDENTRABAJO_LOGI_DETALLEORDENTRABAJO" />
+      <nodes>
+        <classShapeMoniker Id="87b68a90-88d9-42cc-b74e-e39c74be5ef8" />
+        <classShapeMoniker Id="19fcf7c8-1cfb-4d05-b9c6-26c63adb5b0c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.375 : 34.6842268880208); (15.375 : 38.7131168619792); (15.5 : 38.7131168619792); (15.5 : 38.4631168619792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERAORDENTRABAJO/LOGI_CABECERAORDENTRABAJO_LOGI_CHECKLISTORDENTRABAJO" />
+      <nodes>
+        <classShapeMoniker Id="87b68a90-88d9-42cc-b74e-e39c74be5ef8" />
+        <classShapeMoniker Id="e0b35f8e-ef4b-45d4-b79e-e3a2281631d1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.375 : 32.65625); (22 : 32.65625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERAORDENTRABAJO/LOGI_CABECERAORDENTRABAJO_LOGI_RECURSOSORDENTRABAJO" />
+      <nodes>
+        <classShapeMoniker Id="87b68a90-88d9-42cc-b74e-e39c74be5ef8" />
+        <classShapeMoniker Id="4903240c-517e-4229-85cf-bb018fbea061" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.375 : 32.3902091471354); (24.40625 : 32.3902091471354); (24.40625 : 28.4439111328125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDCMMS_MovitecnicaDataContext/LOGI_CABECERAORDENTRABAJO/LOGI_CABECERAORDENTRABAJO_LOGI_COMPONENTEORDENTRABAJO" />
+      <nodes>
+        <classShapeMoniker Id="87b68a90-88d9-42cc-b74e-e39c74be5ef8" />
+        <classShapeMoniker Id="f21aca3d-dad4-4444-84ab-48dcf70b0b39" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
